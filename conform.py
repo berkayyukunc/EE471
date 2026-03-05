@@ -50,3 +50,8 @@ def pleaseConform(caps):
             
 pleaseConform(caps)
 ##pleaseConform(cap2)
+
+
+def please_Conform_Onepass(): 
+       
+  print("done")
